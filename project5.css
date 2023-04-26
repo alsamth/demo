@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#navbarimg{
+    width: 100px;
+    margin-left: 100px;
+}
+#firstbutton{
+    width: 100px;
+    background-color: white;
+    color: rgb(0, 132, 255);
+}
+#secondbutton{
+    border: none;
+    color:white ;
+    font-size: 18px;
+}
